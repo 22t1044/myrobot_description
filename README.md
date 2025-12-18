@@ -1,2 +1,2 @@
 # myrobot_description
-テンプレート
+#テンプレート
