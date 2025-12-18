@@ -1,3 +1,4 @@
 # myrobot_description
-テンプレート/
+テンプレート
+
 URDFにrobotを追加し、display.launchのrobot.urdfを追加したファイル名に変えること
